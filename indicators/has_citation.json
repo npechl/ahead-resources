@@ -1,10 +1,11 @@
 {
-    "name": "Software uses citation",
-    "abbreviation": "software_has_citation",
-    "alternateName": "FRSM-12",
-    "description": "This indicator aims to determine if the project uses a citation to reference contributors and authors (e.g., through a CFF file, in the README, etc).",
-    "keywords": [ "citation", "metadata", "fair", "contributors"],
-    "status": "Active",
-    "version": "1.0.0",
-    "created": "23-05-2025"
+	"name": "Diversity",
+	"abbreviation": "diversity",
+	"alternateName": "",
+	"description": "",
+	"domain": ["Societal"],
+	"keywords": [ "metadata", "fair", "contributors"],
+	"status": "Active",
+	"version": "1.0.0",
+	"created": "2025-11-11"
 }

@@ -1,5 +1,7 @@
 ---
 title: "Indicators"
+execute:
+  echo: false
 ---
 
 About this site
@@ -7,7 +9,7 @@ About this site
 ```{r}
 library(data.table)
 library(rjson)
-library(gt)
+library(reactable)
 
 indicators_dir <- "../indicators/"
 
@@ -30,5 +32,5 @@ for(i in seq_along(fls)) {
 
 indicators_dt <- indicators_dt |> rbindlist(idcol = "id", use.names = TRUE, fill = TRUE)
 
-gt(indicators_dt)
+reactable(indicators_dt)
 ```
