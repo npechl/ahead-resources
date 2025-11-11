@@ -9,6 +9,8 @@ website:
         text: Home
       - href: qmd/indicators.qmd
         text: Indicators
+      - href: qmd/references.qmd
+        text: References
 
 format:
   html:

@@ -1,0 +1,34 @@
+---
+title: "References"
+execute:
+  echo: false
+---
+
+About this site
+
+```{r}
+library(data.table)
+library(rjson)
+library(reactable)
+
+references_dir <- "../references/"
+
+fls <- references_dir |> list.files(full.names = TRUE, pattern = "json") 
+
+references_dt <- list()
+
+for(i in seq_along(fls)) {
+
+    json_data <- fls[i] |>
+        readLines() |>
+        paste(collapse = "") |>
+        fromJSON()
+
+    references_dt[[i]] <- json_data
+
+}
+
+references_dt <- references_dt |> rbindlist(idcol = "id", use.names = TRUE, fill = TRUE)
+
+reactable(references_dt)
+```
