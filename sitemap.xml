@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://npechl.github.io/ahead-indicators/qmd/indicators.html</loc>
-    <lastmod>2025-11-11T10:59:33.804Z</lastmod>
+    <loc>https://npechl.github.io/ahead-indicators/qmd/references.html</loc>
+    <lastmod>2025-11-11T13:26:52.367Z</lastmod>
   </url>
   <url>
     <loc>https://npechl.github.io/ahead-indicators/qmd/index.html</loc>
-    <lastmod>2025-11-11T10:59:33.804Z</lastmod>
+    <lastmod>2025-11-11T13:40:18.136Z</lastmod>
+  </url>
+  <url>
+    <loc>https://npechl.github.io/ahead-indicators/qmd/indicators.html</loc>
+    <lastmod>2025-11-11T13:16:44.919Z</lastmod>
   </url>
 </urlset>

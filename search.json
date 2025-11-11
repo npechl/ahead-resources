@@ -1,8 +1,8 @@
 [
   {
-    "objectID": "qmd/indicators.html",
-    "href": "qmd/indicators.html",
-    "title": "Indicators",
+    "objectID": "qmd/references.html",
+    "href": "qmd/references.html",
+    "title": "References",
     "section": "",
     "text": "About this site"
   },
@@ -11,6 +11,20 @@
     "href": "qmd/index.html",
     "title": "ahead-indicators",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "AHEAD"
+  },
+  {
+    "objectID": "qmd/index.html#ai-for-health",
+    "href": "qmd/index.html#ai-for-health",
+    "title": "ahead-indicators",
+    "section": "AI for Health",
+    "text": "AI for Health\n\nEvaluation of Applications & Datasets\nThe ahead Project brings together global expertise to set the standards for trustworthy AI that protects quality healthcare for all."
+  },
+  {
+    "objectID": "qmd/indicators.html",
+    "href": "qmd/indicators.html",
+    "title": "Indicators",
+    "section": "",
+    "text": "About this site"
   }
 ]
