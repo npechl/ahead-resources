@@ -8,10 +8,10 @@ This repository contains the source code for the AHEAD Resources GitHub page. Yo
 ## Setting out the standards for trustworthy AI
 While the use of Artificial Intelligence (AI) is on the rise, there remains a lack of consensus on standardised approaches for its responsible implementation…
 
-The ahead project is working to create a transdisciplinary, diverse and global community that draws on the expertise of professionals in different fields to address the ongoing effort of tackling challenges and setting important standards in an ever-changing landscape.
+The AHEAD project is working to create a transdisciplinary, diverse and global community that draws on the expertise of professionals in different fields to address the ongoing effort of tackling challenges and setting important standards in an ever-changing landscape.
 
 ## Enhancing trasndisciplinary collaboration
-ahead will encourage responsible AI innovation through constant collaboration and knowledge exchanges, to continuously meet the demands of the fast-changing AI landscape and ensure that this technology is used to enhance quality healthcare for all.
+AHEAD will encourage responsible AI innovation through constant collaboration and knowledge exchanges, to continuously meet the demands of the fast-changing AI landscape and ensure that this technology is used to enhance quality healthcare for all.
 
 ## Requirements
 
