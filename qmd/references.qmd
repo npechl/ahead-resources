@@ -10,9 +10,15 @@ About this site
 
 ```{r}
 
-library(data.table)
-library(rjson)
-library(reactable)
+invisible(
+  suppressWarnings(
+    suppressMessages({
+      library(data.table)
+      library(rjson)
+      library(reactable)
+    })
+  )
+)
 
 
 references_dir <- "../references/"
