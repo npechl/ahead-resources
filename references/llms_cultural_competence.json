@@ -1,0 +1,17 @@
+{
+  "Resource": "CURE: Cultural Understanding and Reasoning Evaluation - A Framework for 'Thick' Culture Alignment Evaluation in LLMs",
+  "Agency": "arXiv",
+  "Year": "2025",
+  "Responsible": "Unknown",
+  "Description": "This paper proposes CURE, a benchmark and evaluation framework for assessing cultural understanding and reasoning in large language models using context-rich situational tasks and complementary quality metrics.",
+  "Type": "Article",
+  "Link": "https://arxiv.org/abs/2511.12014",
+  "Dimension": "Societal",
+  "Indicator": [
+    "Cultural reasoning",
+    "Contextual understanding",
+    "Response quality"
+  ],
+  "Code Available": "",
+  "Tool Available": ""
+}
