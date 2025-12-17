@@ -1,10 +1,13 @@
 {
-	"name": "Regulation (EU) 2024/1689 - AI Act",
-    "group": "Law",
-	"abbreviation" : "regulation_ai_act",
-	"Resource": "Regulation (EU) 2024/1689 - AI Act",
-    "Agency": "EU",
-    "Responsible": "Marta Fasan",
-    "Deadline": "already online",
-    "Link": "" 
+  "Resource": "Regulation (EU) 2024/1689 - AI Act",
+  "Agency": "EU",
+  "Year" : "2024",
+  "Responsible": "Marta Fasan",
+  "Description": "",
+  "Type": "",
+  "Link": "",
+  "Dimension": "Law",
+  "Indicator": "",
+  "Code Available": "",
+  "Tool Available": ""
 }
