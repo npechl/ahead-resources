@@ -1,1 +1,1 @@
-Sitemap: https://npechl.github.io/ahead-indicators/sitemap.xml
+Sitemap: https://npechl.github.io/ahead-resources/sitemap.xml
